@@ -1,0 +1,1 @@
+﻿<div class="box100 bid-row"><div class="box fl bid-item-name">Имя</div><div class="box fl bid-item-text">88888</div></div><div class="box100 bid-row"><div class="box fl bid-item-name">Телефон</div><div class="box fl bid-item-text">88888</div></div>

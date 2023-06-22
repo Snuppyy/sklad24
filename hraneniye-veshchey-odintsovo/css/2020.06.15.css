@@ -1,0 +1,19 @@
+@import "../../css/2020.06.15.css";
+@media (min-width: 768px) {
+    h1 {
+        max-width: 500px;
+    }
+}
+
+.sect_top_video .top_video_art h2 {
+    font-size: 40px;
+    line-height: 44px;
+}
+
+.whatch-the-video {
+    margin: 20px 0;
+}
+
+.sect_top {
+    padding-bottom: 55px;
+}

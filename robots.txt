@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Crawl-delay: 5
+Host: sklad24.uz
+Sitemap: https://sklad24.uz/sitemap.xml
